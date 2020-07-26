@@ -1,0 +1,12 @@
+@import url(./__container/comments__container.css);
+@import url(./__title/comments__title.css);
+@import url(./__subtitle/comments__subtitle.css);
+@import url(./__item-icon/comments__item-icon.css);
+@import url(./__item-text/comments__item-text.css);
+@import url(./__item-author/comments__item-author.css);
+
+.comments {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  margin: 0 auto 102px;
+  padding: 0 48px;
+}

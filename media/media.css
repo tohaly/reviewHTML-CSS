@@ -1,0 +1,9 @@
+@import url(../blocks/header/media/header__media.css);
+@import url(../blocks/photo-grid/media/photo-grid__media.css);
+@import url(../blocks/places/media/places__media.css);
+@import url(../blocks/place/media/place__media.css);
+@import url(../blocks/title/media/title__media.css);
+@import url(../blocks/subtitle/media/subtitle__media.css);
+@import url(../blocks/video/media/video__media.css);
+@import url(../blocks/comments/media/comments__media.css);
+@import url(../blocks/footer/media/footer__media.css);

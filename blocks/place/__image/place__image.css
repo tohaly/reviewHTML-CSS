@@ -1,0 +1,5 @@
+.place__image {
+  width: 45%;
+  align-self: flex-start;
+  margin-right: 40px;
+}
